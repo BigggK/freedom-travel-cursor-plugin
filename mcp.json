@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "freedom-travel": {
+      "url": "https://api.freedom-travel.kz/mcp",
+      "auth": {
+        "CLIENT_ID": "cursor"
+      }
+    }
+  }
+}
