@@ -1,0 +1,15 @@
+{
+  "name": "freedom-travel",
+  "displayName": "Freedom Travel",
+  "description": "Live flights and hotels for Kazakhstan, Central Asia and the CIS. Search, compare and get a booking link on freedom-travel.kz.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Freedom Travel",
+    "email": "kaiyrzhan.shaibassov@aviata.me",
+    "url": "https://freedom-travel.kz"
+  },
+  "homepage": "https://api.freedom-travel.kz/mcp/docs",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": ["travel", "flights", "hotels", "kazakhstan", "central-asia"]
+}
